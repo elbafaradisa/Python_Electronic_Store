@@ -1,2 +1,7 @@
 # JCDSOL-09
-Link tugas capstone project
+
+# Deskripsi
+Capstone Project Modul 1
+
+## Penulis
+Elba Faradisa
